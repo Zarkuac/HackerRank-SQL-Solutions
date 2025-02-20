@@ -13,3 +13,7 @@ HackeRank SQL Solutions (Sorted by Skills and Difficulty)
 <div>
 <img src="https://github.com/user-attachments/assets/c7fe05be-de85-44ed-afd6-188620a42e32" width="300" alt="Oracle_DB_Logo">
 </div>
+
+<div>
+<img src="https://github.com/user-attachments/assets/304f82e5-3d35-49f4-9760-5236b766823d" width="300" alt="Oracle_DB_Logo">
+</div>
