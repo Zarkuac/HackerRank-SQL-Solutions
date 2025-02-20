@@ -1,7 +1,7 @@
 # HackerRank-SQL-Solutions
-HackeRank SQL Solutions (Sorted by Difficulty)
+HackeRank SQL Solutions (Sorted by Skills and Difficulty)
 
-SQL (Basic) , SQL (Intermediate), SQL (Advanced)
+<b> Basic Select, Advanced Select, Aggregation, Basic Join, Advanced Join, Alternative Queries <b>
 
 <br>
 <div>
